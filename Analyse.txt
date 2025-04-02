@@ -53,3 +53,7 @@ On souhaite donner à l’utilisateur un outil qui permet de visualiser en 2D ou
 L’utilisateur pourra afficher une ou plusieurs courbe(s) de niveau, avec une altitude fourni par celui-ci.
 Il pourra également visualiser l’ensemble du MNT avec ses courbes de niveau dont le pas sera choisi par l’utilisateur. Puis afficher des courbes de niveau dont le pas sera plus grand, avec un affichage superposé aux courbes de niveau précédentes.
 
+
+
+20250204
+--> Je teste une modification
